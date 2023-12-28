@@ -49,7 +49,6 @@ Name: "nl"; MessagesFile: "compiler:Languages\Dutch.isl"
 Name: "pt"; MessagesFile: "compiler:Languages\Portuguese.isl"
 Name: "pl"; MessagesFile: "compiler:Languages\Polish.isl"
 Name: "ru"; MessagesFile: "compiler:Languages\Russian.isl"
-Name: "uk"; MessagesFile: "compiler:Languages\Ukrainian.isl"
 ; Not official. Sometimes not updated to latest version (strings missing)
 Name: "ga"; MessagesFile: "unofficial_inno_languages\Galician.isl"
 Name: "eu"; MessagesFile: "unofficial_inno_languages\Basque.isl"
